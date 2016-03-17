@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Opdracht2Kwetter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Opdracht2Kwetter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Opdracht2Kwetter:war exploded" />
+    </root>
+  </artifact>
+</component>
